@@ -5,7 +5,8 @@
 # K-Means
 K-Means 클러스터링은 클러스터링에서 가장 일반적으로 사용되는 알고리즘으로, 군집 중심점(centroid)이라는 특정한 임의의 지점을 선택해 해당 중심에 가장 가까운 포인트들을 선택하는 군집화 기법임. 
 K-Means이므로 K개의 centroid를 지정하며 이때 가장 가까운 포인트를 선택한다는 점에서 K-Means는 거리 기반 군집화 방법임을 알 수 있음
-![Uploading image.png…]()
+![image](https://github.com/sangyeon1941/Clustering/assets/170851785/da5402d5-a254-4275-bd2d-8a94d4e2f608)
+
 
 
 # DBSCAN
